@@ -1,0 +1,15 @@
+.text{
+    text-align:justify;
+    text-decoration: none;
+    text-indent: 25px;
+    text-transform: uppercase;
+    color:yellow;
+    font-size: 25px;
+    
+    }
+    body{
+        margin: 10%;
+        margin-bottom: 40px;
+        background: green;
+             
+    } 
